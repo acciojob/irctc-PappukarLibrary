@@ -1,3 +1,4 @@
+
 package com.driver.model;
 
 
@@ -71,4 +72,3 @@ public class Passenger {
         this.bookedTickets = bookedTickets;
     }
 }
-
